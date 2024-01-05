@@ -1,0 +1,2 @@
+[console_scripts]
+spacefights = spacefights.__main__:main
